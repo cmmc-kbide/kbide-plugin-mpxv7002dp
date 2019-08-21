@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-mpxv7002dp",
+  "title": "mpxv7002dp",
+  "keywords": "mpxv7002dp, esp32, esp8266, arduino",
+  "description": "Plugin mpxv7002dp for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-mpxv7002dp/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-mpxv7002dp/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
